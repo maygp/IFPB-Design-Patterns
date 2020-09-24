@@ -1,4 +1,4 @@
-`Curso: Sistemas para Internet
-Disciplina: Padrões de Projeto de Software
-Professora: Dra. Alana Morais
-Período 2020.1`
+`Curso: Sistemas para Internet`<br/>
+`Disciplina: Padrões de Projeto de Software`<br/>
+`Professora: Dra. Alana Morais`<br/>
+`Período 2020.1`
